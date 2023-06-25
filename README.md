@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - 👩‍🎓 I have a B.Sc. in Computer Science with a specialization in AI & Fullstack 		development.
 - 📂 I’m currently working on two major projects.
 - 👩‍💻 I’m currently learning some new technologies and enriching my knowledge and experience.
-- 🌟 Fun fact: I appreciate a good TV series, an interesting book and a fine music.
+- 🌟 Fun fact: I appreciate a good TV series, an interesting book and fine music.
 
 ## ⚙️ Technologies & Tools
 #### 📋 Languages:
