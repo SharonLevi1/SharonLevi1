@@ -14,10 +14,6 @@ Here are some ideas to get you started:
 -->
 <h1 align="center"> Hi there, I'm Sharon Levi 🙋‍♀️</h1>
 
-<p align="center">
-    <img src="https://i.ibb.co/m4SC7Kd/avatar1.png" alt="avatar">
-</p>
-
 ## 🪪 About Me
 - 👩‍🎓 I have a B.Sc. in Computer Science with a specialization in AI & Fullstack 		development.
 - 📂 I’m currently working on two major projects.
